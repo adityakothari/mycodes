@@ -6,6 +6,8 @@ public class Test {
 				
 				
 				System.out.println("test delta");
+				System.out.println("C1");
+				System.out.println("C2");
 			}
 			
 }
